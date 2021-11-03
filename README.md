@@ -16,3 +16,5 @@ create table students(
   3) Test insert CRUD:
   insert into students(id,firstname,lastname,gender) values('1','Sam','Jones','M');
   insert into students(id,firstname,lastname,gender) values('2','Susie','Graham','F');
+  
+  commit;
