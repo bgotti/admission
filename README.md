@@ -1,2 +1,2 @@
-# admission
+# Admission
 Projet de qualité
